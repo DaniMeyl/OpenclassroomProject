@@ -1,0 +1,19 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass --watch ./sass/main.scss:./public/css/style.css": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniMeyl/OpenclassroomProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniMeyl/OpenclassroomProject/issues"
+  },
+  "homepage": "https://github.com/DaniMeyl/OpenclassroomProject#readme"
+}
